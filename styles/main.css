@@ -120,6 +120,45 @@ section li {
 	padding-bottom: .35em;
 }
 
+/* table styles  */
+
+table{
+	border-top: 2.5px solid #800000;
+	border-bottom:2.5px solid #800000;
+	border-collapse: collapse;
+	font-size: 1rem;
+	
+}
+
+td{
+	padding: .2em .7em;
+}
+
+
+.space1{
+	border-bottom: 2.5px solid #800000;
+}
+
+.mid-border{
+	border-top: 2.5px solid #800000;
+}
+
+.last-border{
+	border-top: 2.5px solid #800000;
+}
+
+.bottom-bottom{
+	border-top: 2.5px solid #800000;
+	text-align: right;
+}
+
+.align{
+	text-align: center;
+	width: 50px;
+}
+
+
+
 /* the styles for the article */
 article {
 	padding: .5em 0;
